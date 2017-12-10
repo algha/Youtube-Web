@@ -1,0 +1,44 @@
+Watch HD movies free
+
+server
+
+1. movie category
+   name,order,url
+2. moivie list
+   title,image,movie url,length,category,content,click,good,bad,manager,created at,updated at,
+   imdb,length,year
+   type: full,trailer
+   tvshows,movies,episode
+   nation: usa,japan
+   kino ixligan xirkat
+3.comments
+  content,userid
+3.user
+  icon,password,name,email,gender,nation,tughulghan kuni
+5.recommend
+  like
+
+app
+1.home
+  all 
+    categories
+    latests
+    hottest
+    movies
+    tvshows
+    episodes
+  movies
+  tv shows
+  episodes
+2.freinds recommend
+3.top 10 -- random 
+4.me
+  youtube bilen ohxax
+
+
+http://movie4u.cc/
+https://www.uplabs.com/posts/video-app-design-application
+https://www.uplabs.com/posts/mojas-ios-video-apps
+https://www.uplabs.com/posts/video-q-a-app-home-page-explore-page-askwhale
+https://www.uplabs.com/posts/music-portal
+https://www.uplabs.com/posts/home-and-menu
